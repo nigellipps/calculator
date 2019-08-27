@@ -1,15 +1,18 @@
-//
-//  main.cpp
-//  simpcalc
-//
-//  Created by josh park on 3/3/19.
-//  Copyright © 2019 joshuapark. All rights reserved.
-//
+// Nigel Lipps
+// Josh Park
+// Simple Calculator
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+// while loop for accepting input
+
+
     return 0;
+}
+
+//functions for various mechanics
+double mult(double num, double in){
+    
 }
